@@ -14,10 +14,10 @@
 
 ## Let's connect :electric_plug:
 <a href="https://github.com/thaislsilveira">
-  <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
+  <code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111292.svg" alt="GitHub"/></code>
  </a>
 <a href="https://www.linkedin.com/in/tha%C3%ADs-laine-neves-da-silveira-455113137/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" /></code>
 </a>
 
 ----
