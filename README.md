@@ -21,3 +21,13 @@
 </a>
 
 ----
+
+## Coding Activity
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thaislsilveira&show_icons=true&theme=tokyonight" alt="Thais's github stats" />
+</p>
+
+----
