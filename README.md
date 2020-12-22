@@ -13,7 +13,10 @@
 ----
 
 ## Let's connect :electric_plug:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thaislsilveira)](https://github.com/thaislsilveira)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tha%C3%ADs-laine-neves-da-silveira-455113137/)](https://www.linkedin.com/in/tha%C3%ADs-laine-neves-da-silveira-455113137/)
-
+<a href="https://github.com/thaislsilveira">
+  <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
+ </a>
+<a href="https://www.linkedin.com/in/tha%C3%ADs-laine-neves-da-silveira-455113137/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
 ----
