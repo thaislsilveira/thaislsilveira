@@ -52,7 +52,15 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaislsilveira&show_icons=true&theme=tokyonight" alt="Thais's github stats" />
+   <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaislsilveira&layout=compact&theme=tokyonight"
+    />
+  <img   
+      align="center"
+      height="165" 
+       src="https://github-readme-stats.vercel.app/api?username=thaislsilveira&show_icons=true&theme=tokyonight"
+    />
 </p>
 
 ----
