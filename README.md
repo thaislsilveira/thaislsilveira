@@ -3,17 +3,36 @@
 ## My name is Thaís Silveira
 
 ----
-### Learning :notebook:
+### Stacks :computer:
 
-[![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
-[![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
-[![ReactNative badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=reactJS&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)
+<a href="https://reactjs.org/">
+  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React"/>
+</a>
+<a href="https://nodejs.org/en/">
+  <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img height="32" src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-typescript-512.png" alt="TypeScript"/>
+</a>
+<a href="https://vuejs.org/">
+  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
+</a>
+<a href="https://www.w3schools.com/html/">
+  <img height="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
+</a>
+<a href="https://www.w3schools.com/css/">
+  <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
+</a>
+<a href="https://www.javascript.com/">
+  <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
+</a>
+
 
 ----
 
 ----
 
-## Let's connect :electric_plug:
+### Let's connect :electric_plug:
 <a href="https://github.com/thaislsilveira">
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/>
  </a>
