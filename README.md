@@ -42,12 +42,7 @@
 <a href="https://www.linkedin.com/in/tha%C3%ADs-laine-neves-da-silveira-455113137/">
   <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
 </a>
-<ul>
-  <li>
-    <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1614100029~hmac=8f9ec743ce836e4fac872c5d549cbb2c" />
-    <p>thais_lsilveira@hotmail.com
-  </li>
- </ul>
+<img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1614100029~hmac=8f9ec743ce836e4fac872c5d549cbb2c" />thais_lsilveira@hotmail.com
 
 ----
 
