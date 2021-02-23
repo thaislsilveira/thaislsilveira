@@ -38,10 +38,10 @@
 ### Let's connect :electric_plug:
 <a href="https://github.com/thaislsilveira">
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/>
-</a>
+</a> <br/>
 <a href="https://www.linkedin.com/in/tha%C3%ADs-laine-neves-da-silveira-455113137/">
   <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
-</a>
+</a> <br/>
 <a href="https://outlook.live.com" target="_blank">
   <img alt="My email" width="28" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1614100029~hmac=8f9ec743ce836e4fac872c5d549cbb2c" />
   thais_lsilveira@hotmail.com
