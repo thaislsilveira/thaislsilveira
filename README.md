@@ -42,7 +42,7 @@
 <a href="https://www.linkedin.com/in/tha%C3%ADs-laine-neves-da-silveira-455113137/">
   <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
 </a>
-<a href=mailto:<nowiki>thais_lsilveira@hotmail.com?subject="link HTML">Clique aqui para me enviar um e-mail!</a>
+<a href="mailto:someone@example.com?subject=Questions" title="">Pergunte aqui</a>
 
 ----
 
