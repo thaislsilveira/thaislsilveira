@@ -9,8 +9,7 @@
 
 ### Collaboration 👥
 #### I always try to help people improve their knowledge in programming and as a result I end up improving mine even more. <br/>
-#### Questions and help: thais_lsilveira@hotmail.com
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+#### Questions and help: [![Outlook Badge](https://img.shields.io/badge/-thais_lsilveira@hotmail.com-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:thais_lsilveira@hotmail.com)](mailto:thais_lsilveira@hotmail.com)
 
 
 ----
