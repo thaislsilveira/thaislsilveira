@@ -1,6 +1,6 @@
 ### Welcome to my profile <img width="50" src="https://media.tenor.com/images/826b0e88836aef3ff8ad7508098cf3dc/tenor.gif" alt="Girl hello" />
 
-### My name is Thaís Silveira
+### My name is Thaís Silveira, I was born in Jales interior of São Paulo, currently I am a front-end developer at Precisão Sistemas and monitor the Rocketseat Space Squad program.
 
 ----
 
@@ -42,7 +42,7 @@
 <a href="https://www.linkedin.com/in/tha%C3%ADs-laine-neves-da-silveira-455113137/">
   <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
 </a>
-<img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1614100029~hmac=8f9ec743ce836e4fac872c5d549cbb2c" />thais_lsilveira@hotmail.com
+<a href=mailto:<nowiki>thais_lsilveira@hotmail.com?subject="link HTML">Clique aqui para me enviar um e-mail!</a>
 
 ----
 
