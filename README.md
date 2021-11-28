@@ -1,7 +1,7 @@
 ### Welcome to my profile <img width="50" src="https://media.tenor.com/images/826b0e88836aef3ff8ad7508098cf3dc/tenor.gif" alt="Girl hello" />
 
 ### My name is Thaís Silveira.
-#### I was born in Jales interior of São Paulo, currently I am a Software Engineer at Grupo SBF and monitor in the Rocketseat Space Squad program.
+#### I was born in Jales, São Paulo, I am currently a Software Engineer at Grupo SBF and monitor of Rocketseat's Space Squad program.
 
 ----
 
